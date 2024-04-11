@@ -158,6 +158,18 @@ Too little text may not effectively sell to readers, while too much can be overw
 The maximum word_count that could influence the click-through rate is **between 300-320**
 
 
+# Model Selection and Evaluation
+
+We trained decision trees and random forests using 50,000 historical email data. Our evaluation of the models was based on their prediction performance, specifically accuracy, precision, recall, and other relevant metrics. These metrics provide insights into the models' ability to predict click-through rates, guide decision-making for improving future emails, and inform the rate to charge advertisers.
+
+
+## Decision Tree : Confusion Matrix
+
+Training Prediction - Actual vs Prediction
+
+Accuracy: 93.9%
+
+
 
 
 
