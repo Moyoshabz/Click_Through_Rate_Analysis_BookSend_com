@@ -72,6 +72,26 @@ An Overview of the dataset
 ![iamge_1](./images/image4.png)
 
 
+## Click through rate per browser
+
+![iamge_1](./images/image5.png)
+
+## Relationship between Genre and Click-through rate
+
+![iamge_1](./images/image6.png)
+
+
+**Observation:** 
+
+Irrespective of the genre, the non click rates are uniform across all genre
+
+
+
+
+
+
+
+
 
 
 
