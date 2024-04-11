@@ -106,7 +106,7 @@ Below are the columns:
 
 **Word_Count**
 
-**Total_links **
+**Total_links**
 
 **Total_Images**
 
@@ -117,6 +117,23 @@ In other to avoid skewness in the training and prediction process and bias or in
 **Mean or median imputation for the numeric columns**
 
 **Assign a separate category for the categorical variable column**
+
+## Before Imputation
+
+**Observation:**  Each column contains NA's
+
+![iamge_1](./images/image8.png)
+
+
+## After Imputation
+**Observation: ** After mean and median imputation they are no instances of missing rows(NA’s) within the dataset
+
+
+![iamge_1](./images/image9.png)
+
+
+
+
 
 
 
