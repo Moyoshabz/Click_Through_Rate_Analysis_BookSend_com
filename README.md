@@ -155,8 +155,6 @@ Too little text may not effectively sell to readers, while too much can be overw
 
 **Observation:**
 
-![iamge_1](./images/image12.png)
-
 The maximum word_count that could influence the click-through rate is **between 300-320**
 
 
