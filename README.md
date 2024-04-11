@@ -57,6 +57,12 @@ Variable: 12
 
 An Overview of the dataset
 
+![iamge_1](./images/image2.png)
+
+![iamge_1](./images/image3.png)
+
+![iamge_1](./images/image4.png)
+
 
 
 
