@@ -94,6 +94,32 @@ Irrespective of the genre, the non click rates are uniform across all genre
 There is 50% chances of clicks with more images
 
 
+# EDA - Data preparation for Modelling
+
+After observing the data using basic EDA, it was observed that some columns within the dataset contained missing values(**NA’s**)
+
+Below are the columns:
+
+**Subject_Marketability_score**
+
+**Total_Past_Communication**
+
+**Word_Count**
+
+**Total_links **
+
+**Total_Images**
+
+In other to avoid skewness in the training and prediction process and bias or incomplete decision, the use of imputation techniques would be used to fill the missing values
+
+## Imputation techniques adopted 
+
+**Mean or median imputation for the numeric columns**
+
+**Assign a separate category for the categorical variable column**
+
+
+
 
 
 
