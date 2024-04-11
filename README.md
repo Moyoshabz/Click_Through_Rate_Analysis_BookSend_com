@@ -61,6 +61,12 @@ An Overview of the dataset
 
 ![iamge_1](./images/image3.png)
 
+**0 – Not clicked**
+
+**1 - Clicked**
+
+
+
 ![iamge_1](./images/image4.png)
 
 
