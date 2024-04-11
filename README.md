@@ -85,6 +85,9 @@ An Overview of the dataset
 
 Irrespective of the genre, the non click rates are uniform across all genre
 
+## Click through rate and relationship with images 
+
+
 
 
 
