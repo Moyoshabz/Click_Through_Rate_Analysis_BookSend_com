@@ -87,6 +87,11 @@ Irrespective of the genre, the non click rates are uniform across all genre
 
 ## Click through rate and relationship with images 
 
+![iamge_1](./images/image7.png)
+
+**Observation:** 
+
+There is 50% chances of clicks with more images
 
 
 
