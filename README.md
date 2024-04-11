@@ -45,8 +45,8 @@ Variable: 12
 
 
 
-## Partitioning Utilized a 70-30 split
-70% of the data used for model training and 30% kept aside for evaluation.
+## Partitioning Utilized a 70-20-10 split
+70% of the data is allocated to the training set, 20% of the data is allocated to validation set and, 10% allocated to test the set .
 
 ## Modeling Techniques
 **Decision Tree**
