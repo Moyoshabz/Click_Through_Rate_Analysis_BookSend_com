@@ -49,8 +49,14 @@ Variable: 12
 70% of the data used for model training and 30% kept aside for evaluation.
 
 ## Modeling Techniques
-Decision Tree
-Random Forest
+**Decision Tree**
+
+**Random Forest**
+
+## Exploratory Data Analysis
+
+An Overview of the dataset
+
 
 
 
