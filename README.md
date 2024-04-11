@@ -147,10 +147,15 @@ Higher scores indicate a higher expected CTR, making it a valuable predictor.
 
 The visualization seems to tell a different story on the relationship between subject marketability score and the click through rates in the data set
 
+
 **Word_Count:** The length of the email text was selected as it is believed that an optimal word count can maximize reader engagement. 
 Too little text may not effectively sell to readers, while too much can be overwhelming.
 
 ![iamge_1](./images/image11.png)
+
+**Observation:**
+
+The maximum word_count that could influence the click-through rate is **between 300-320**
 
 
 
