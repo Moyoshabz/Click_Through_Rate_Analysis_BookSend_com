@@ -53,7 +53,7 @@ Variable: 12
 
 **Random Forest**
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis (EDA)
 
 An Overview of the dataset
 
